@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently having my internship and working on exciting & challenging projects 😆
+- 🌱 I’m learning React Native & Django 😎
+- 💬 Ask me about Laravel, Vue, React, React Native, Django 😉
+- ⚡ Fun fact: I turn Milo ☕ into codes 😋
+
 <!--
 **HengJunXi/HengJunXi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
