@@ -42,7 +42,7 @@
 
 [linkedin]: https://linkedin.com/in/heng-jun-xi
 [sololearn]: https://www.sololearn.com/Profile/589069
-[#]: #React
+[#]: #
 
 <!--
 **HengJunXi/HengJunXi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
