@@ -17,12 +17,14 @@
 [<img align="left" alt="JavaScript" title="JavaScript" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](#)
 [<img align="left" alt="PHP" title="PHP" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />](#)
 [<img align="left" alt="Python" title="Python" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](#)
+[<img align="left" alt="Dart" title="Dart" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />](#)
 <br /><br /><br />
 
 ### Frontend
 [<img align="left" alt="React" title="React" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](#)
 [<img align="left" alt="React Native" title="React Native" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />](#)
 [<img align="left" alt="Vue" title="Vue" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />](#)
+[<img align="left" alt="Flutter" title="Flutter" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />](#)
 <br /><br /><br />
 
 ### Backend
@@ -30,12 +32,11 @@
 [<img align="left" alt="Django" title="Django" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />](#)
 <br /><br /><br />
 
-
 ### Database
 [<img align="left" alt="SQL" title="SQL" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](#)
 [<img align="left" alt="MySQL" title="MySQL" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](#)
+[<img align="left" alt="Firebase" title="Firebase" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />](#)
 <br /><br /><br />
-
 
 ### Tools
 [<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](#)
