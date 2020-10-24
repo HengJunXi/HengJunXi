@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I turn Milo ☕ into codes 😋
 
 ### Connect with me:
-[<img align="left" alt="Heng | LinkedIn" width="32px" height="32px" src="https://user-images.githubusercontent.com/26790222/97066238-6240b000-15e6-11eb-8151-cf3d76b8a844.png" />][linkedin]
+[<img align="left" alt="Heng | LinkedIn" width="32px" height="32px" src="https://user-images.githubusercontent.com/26790222/97066414-e8112b00-15e7-11eb-9e89-2b88ab1db3e0.png" />][linkedin]
 [<img align="left" alt="Heng | SoloLearn" width="32px" height="32px" src="https://user-images.githubusercontent.com/26790222/97066330-17736800-15e7-11eb-8d22-102e48c40d40.png" />][sololearn]
 <br /><br />
 
@@ -20,9 +20,9 @@
 <br /><br /><br />
 
 ### Frontend
-[<img align="left" alt="Vue" title="Vue" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />](#)
 [<img align="left" alt="React" title="React" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](#)
 [<img align="left" alt="React Native" title="React Native" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />](#)
+[<img align="left" alt="Vue" title="Vue" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />](#)
 <br /><br /><br />
 
 ### Backend
