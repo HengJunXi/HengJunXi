@@ -43,6 +43,7 @@
 [<img align="left" alt="Docker" title="Docker" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](#)
 [<img align="left" alt="Git" title="Git" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](#)
 [<img align="left" alt="GitHub" title="GitHub" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](#)
+[<img align="left" alt="Adobe XD" title="Adobe XD" width="64px" height="64px" src="https://user-images.githubusercontent.com/26790222/101284214-d3949500-3819-11eb-8d8c-c80590545a76.png" />](#)
 
 [linkedin]: https://linkedin.com/in/heng-jun-xi
 [sololearn]: https://www.sololearn.com/Profile/589069
