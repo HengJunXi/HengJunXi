@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I turn Milo ☕ into codes 😋
 
 ### Connect with me:
+[<img align="left" alt="Heng | GitHub" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Heng | LinkedIn" width="32px" height="32px" src="https://user-images.githubusercontent.com/26790222/97066414-e8112b00-15e7-11eb-9e89-2b88ab1db3e0.png" />][linkedin]
 [<img align="left" alt="Heng | SoloLearn" width="32px" height="32px" src="https://user-images.githubusercontent.com/26790222/97066330-17736800-15e7-11eb-8d22-102e48c40d40.png" />][sololearn]
 <br /><br />
@@ -45,6 +46,7 @@
 [<img align="left" alt="GitHub" title="GitHub" width="64px" height="64px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](#)
 [<img align="left" alt="Adobe XD" title="Adobe XD" width="64px" height="64px" src="https://user-images.githubusercontent.com/26790222/101284214-d3949500-3819-11eb-8d8c-c80590545a76.png" />](#)
 
+[github]: https://github.com/HengJunXi
 [linkedin]: https://linkedin.com/in/heng-jun-xi
 [sololearn]: https://www.sololearn.com/Profile/589069
 
