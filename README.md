@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on exciting & challenging projects 😆
 - 🌱 I’m learning GraphQL 😎
-- 💬 Ask me about Laravel, Vue, React, React Native, NextJS, Django 😉
+- 💬 Ask me about Laravel, Vue, React, React Native, Django 😉
 - ⚡ Fun fact: I turn Milo ☕ into codes 😋
 
 ### Connect with me:
